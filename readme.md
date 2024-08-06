@@ -1,33 +1,17 @@
-## **Clinic's Patient Management System in PHP**
-==========================================================
+Clinical Data Management System
+Introduction
+The Clinical Data Management System (CDMS) is designed to streamline the management and analysis of clinical data. It provides a robust platform for storing, retrieving, and analyzing clinical data, ensuring data integrity and accessibility. This system is built using web technologies including HTML, CSS, PHP, and JavaScript, providing a user-friendly interface for clinical data management.
 
-### Technologies
-- PHP >= 7.2
-- MySQL Database
-- Bootstrap
-- AdminLTE
-- FPDF
+Features
+The CDMS offers a comprehensive suite of features to facilitate clinical data management:
+Data Entry and Storage: Securely store clinical data with customizable data entry forms.
+Data Retrieval: Efficiently retrieve and display stored data.
+User Authentication: Ensure data security with user authentication and role-based access control.
+Data Analysis: Integrated tools for basic data analysis and reporting.
+Audit Trail: Maintain a detailed audit trail of data entry and modifications.
 
-==========================================================
-### **Developement Information**
-==========================================================
-#### ** Original Version**
-- **Developed/Published By:** 	 Abid Elahi
-- **Uploaded/Published at:** [https://www.kashipara.com/project/php/8527/patient-management-system-updated-](https://www.kashipara.com/project/php/8527/patient-management-system-updated-) 
-==========================================================
-#### ** Modified Version**
-- **Modified By:** oretnom23
-- **Published at:** [https://sourcecodester.com/php-clinics-patient-management-system-source-code](https://sourcecodester.com/php-clinics-patient-management-system-source-code) 
-
-==========================================================
-#### **Modification Information**
-- Customize some of the User Interface (CSS)
-- Modified Some features UI
-- Fixed some errors encoundtered
-==========================================================
-
-==========================================================
-#### **Admin Access**
-- **Username:** admin
-- **Password:** admin123
-==========================================================
+Technologies Used
+The Clinical Data Management System utilizes the following technologies:
+HTML/CSS: For building the user interface.
+PHP: For server-side scripting and database interactions.
+JavaScript: For client-side functionality and dynamic content.
